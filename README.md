@@ -296,7 +296,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Youssef Mohamed**
+**Youssef Gado**
 
 Flutter Developer
 
